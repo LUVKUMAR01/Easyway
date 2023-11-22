@@ -25,13 +25,4 @@ that issue.
 A feedback form is a tool to gather information about a user’s opinion or
 experience regarding a specific service.
 
-# Screenshots![Annotation 2023-05-06 150836](https://github.com/HorilPrasad/Mini-Project/assets/96302661/2a3b61b6-1e96-40e8-8026-cdd4c07f5bfc)
-
-
-![Annotation 2023-05-06 151500](https://github.com/HorilPrasad/Mini-Project/assets/96302661/35611f76-18f7-441b-a96e-69c32812c1de)
-
-![Annotation 2023-05-06 151346](https://github.com/HorilPrasad/Mini-Project/assets/96302661/baf31596-e850-40e6-b4b0-d28a0e5ce965)
-
-![Annotation 2023-05-02 205204](https://github.com/HorilPrasad/Mini-Project/assets/96302661/dcc2df6d-df7d-48a3-bfc3-91da0e6cb80b)
-
 
